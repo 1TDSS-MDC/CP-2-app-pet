@@ -1,12 +1,21 @@
 import styled from "styled-components";
 
-export const DivHeader = styled.div`
-    background-color:'#222';
+export const DivHeader = styled.div `
+    background-color:#222;
     position: relative;
     width:100%;
     height: 80px;
-    h1{text-align: center; background: #fff};` 
-
+    h1{text-align: center; background: #fff};
+`
+export const DivLista = styled.div`
+    width: 100%;
+    min-height: 85vh;
+    padding: 20px;
+    background-color: #ccc;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+`
 
 export const DivFooter = styled.div`
     position: absolute;
@@ -18,16 +27,6 @@ export const DivFooter = styled.div`
     justidy-content: center;
     background-color: #222;
     height: 90px;`
-
-
-export const DivLista = styled.div`
-    width: 100%;
-    min-height: 85vh;
-    padding: 20px;
-    background-color: #ccc;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;`
 
 export const DivTarefa = styled.div`
     background-color : #ffb;
@@ -41,7 +40,6 @@ export const DivTarefa = styled.div`
     position: relative;
     h2,p{padding-bottom: 10px;}
     button{position:absolute;top:10px; right:10px}`
-
 
 export const DivForm = styled.div`
     width:35%;
