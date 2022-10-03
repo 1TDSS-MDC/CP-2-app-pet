@@ -1,5 +1,5 @@
 import React from "react";
-import { DivHeader } from "./style/styled";
+import { DivHeader } from "./Style/styled";
 
 
 

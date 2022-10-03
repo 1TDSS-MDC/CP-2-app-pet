@@ -1,6 +1,6 @@
 import React from "react";
-import { DivFooter } from "./style/styled";
-import { DivApp } from "./style/styled";
+import { DivFooter } from "./Style/styled";
+
 
 export default function Footer(){
     return(

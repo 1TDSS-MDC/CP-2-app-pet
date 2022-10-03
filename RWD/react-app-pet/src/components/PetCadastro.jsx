@@ -1,5 +1,5 @@
 import React from 'react'
-import { DivForm } from './style/styled'
+import { DivForm } from './Style/styled'
 
 
 export default function PetCadastro(props) {

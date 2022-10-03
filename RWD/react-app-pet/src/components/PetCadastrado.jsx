@@ -1,5 +1,5 @@
 import React from 'react'
-import { DivTarefa } from './style/styled'
+import { DivTarefa } from './Style/styled'
 import {FaDog as X } from 'react-icons/fa';
 
 export default function PetCadastrado(props) {

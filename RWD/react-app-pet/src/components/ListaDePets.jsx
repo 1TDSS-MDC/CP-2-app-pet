@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { DivLista } from './style/styled'
+import { DivLista } from './Style/styled'
 import PetCadastro from './PetCadastro'
 import PetCadastrado from './PetCadastrado'
 

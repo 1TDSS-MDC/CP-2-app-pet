@@ -1,5 +1,5 @@
 import React from 'react'
-import { DivHome } from './style/styled'
+import { DivHome } from './Style/styled'
 
 export default function Home(){
 
